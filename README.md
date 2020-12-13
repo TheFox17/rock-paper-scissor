@@ -1,4 +1,4 @@
-# rock-paper-scissor
+# rock-paper-scissors
 
 As simple as it sounds, you are going to play with the computer a rock-paper-scissors game!
 
