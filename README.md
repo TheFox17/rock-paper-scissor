@@ -6,6 +6,6 @@ before you run the script make sure you run the command "pip install random"
 
 run "python rock-paper-scissors.py" from the terminal
 
-choose a letter, r stand for rock, p for paper, and s for scissor.
+choose a letter; r stands for rock, p for paper, and s for scissor.
 
 ENJOY!
